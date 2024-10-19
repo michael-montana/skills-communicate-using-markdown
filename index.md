@@ -6,3 +6,5 @@
 ###### This is H6 text
 
 Very nice headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
